@@ -9,7 +9,7 @@ setuptools.setup(
     author="Alicia Zhou, Tao Ni",
     author_email="alicia.zhou@duke.edu, tao.ni@duke.edu",
     description="Stochastic Gradient Hamilton Monte Carlo",
-    url="https://github.com/azhou96/STA663-Final-Project--SGHMC",
+    url="https://github.com/azhou96/STA663-Final-Project-SGHMC",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
