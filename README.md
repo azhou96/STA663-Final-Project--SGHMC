@@ -1,4 +1,4 @@
-# STA663-Final-Project--SGHMC
+# STA663-Final-Project-SGHMC
 The repository for reimplement the Stochastic Gradient Hamiltonian Monte Carlo algorithm by Chen et al. (2014) 
 
 Author:Alicia Zhou (alicia.zhou@duke.edu), Tao Ni (tao.ni@duke.edu)
