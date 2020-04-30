@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="azhou96",
+    name="azhou96-2",
     version="0.0.1",
     author="Alicia Zhou, Tao Ni",
     author_email="alicia.zhou@duke.edu, tao.ni@duke.edu",
